@@ -1,6 +1,4 @@
-# Use this to try out anything you like. Use print to display your answer
-# when you press the "Test Run" button.
-# Use the "Reset" button to reset the screen 
+ 
 input_string="""John is connected to Bryant, Debra, Walter.\
 John likes to play The Movie: The Game, The Legend of Corgi, Dinosaur Diner.\
 Bryant is connected to Olive, Ollie, Freda, Mercedes.\
