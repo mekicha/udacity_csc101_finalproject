@@ -3,13 +3,13 @@ I just copied the instructions for the project from the udacity site:
 https://www.udacity.com/course/viewer#!/c-cs101/l-652789146/e-714268688/m-726408569
 and they are as below:
 
-# --------------------------- #
-# Intro to CS Final Project   #
-# Gaming Social Network       #
-# --------------------------- #
+ --------------------------- 
+## Intro to CS Final Project   
+## Gaming Social Network       
+ --------------------------- 
 
-# Background
-# ==========
+## Background
+ ==========
  You and your friend have decided to start a company that hosts a gaming
  social network site. Your friend will handle the website creation (they know 
  what they are doing, having taken our web development class). However, it is 
@@ -42,11 +42,11 @@ can be at most one 'John' in the network. Furthermore, connections are not
  symmetric - if 'Bob' is connected to 'Alice', it does not mean that 'Alice' is
  connected to 'Bob'.
 
-# Project Description
-# ====================
+## Project Description
+ ====================
  Your task is to complete the procedures according to the specifications below
  as well as to implement a Make-Your-Own procedure (MYOP). You are encouraged 
  to define any additional helper procedures that can assist you in accomplishing 
  a task. You are encouraged to test your code by using print statements and the 
  Test Run button. 
-# ----------------------------------------------------------------------------- 
+ ----------------------------------------------------------------------------- 
