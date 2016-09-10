@@ -1,4 +1,5 @@
 # udacity_csc101_finalproject
+Solution provided by me while
 I just copied the instructions for the project from the udacity site:
 https://www.udacity.com/course/viewer#!/c-cs101/l-652789146/e-714268688/m-726408569
 and they are as below:
